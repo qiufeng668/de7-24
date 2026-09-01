@@ -1,0 +1,22 @@
+{
+  "token": "7201823a3e74e2ff1a6c06eb8bc154aa",
+  "android_id": "b6dbae7479d105d9",
+  "wallet": "Cmu8P6v5R2Y5eEJWNaskjtMXmzphHCeFDnL3NSg8JTTc",
+  "invite": "TVX2A2N0",
+  "rounds_per_country": 10,
+  "max_nodes_per_country": 3,
+  "country_workers": 7,
+  "activate_workers": 16,
+  "per_country": {
+    "HK": 3,
+    "SG": 3,
+    "JP": 3,
+    "KR": 3,
+    "US": 3,
+    "DE": 3,
+    "ID": 3
+  },
+  "total_links": 21,
+  "elapsed_sec": 7.9,
+  "nodes_file": "/home/runner/work/de7-24/de7-24/nodes.txt"
+}
