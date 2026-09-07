@@ -1,7 +1,7 @@
 {
-  "token": "7201823a3e74e2ff1a6c06eb8bc154aa",
-  "android_id": "b6dbae7479d105d9",
-  "wallet": "Cmu8P6v5R2Y5eEJWNaskjtMXmzphHCeFDnL3NSg8JTTc",
+  "token": "9912a8e7d15a6063812a24fd6937a6b8",
+  "android_id": "2f16960f4e5c0b3b",
+  "wallet": "ByEzyofjkFVNedPgJfyDiTGjQNKyq4Gpk3hYi91GzXy7",
   "invite": "TVX2A2N0",
   "rounds_per_country": 10,
   "max_nodes_per_country": 3,
@@ -17,6 +17,6 @@
     "ID": 3
   },
   "total_links": 21,
-  "elapsed_sec": 7.9,
+  "elapsed_sec": 10.7,
   "nodes_file": "/home/runner/work/de7-24/de7-24/nodes.txt"
 }
